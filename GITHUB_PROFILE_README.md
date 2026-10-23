@@ -6,7 +6,8 @@ I work at the intersection of enterprise business systems and hands-on software 
 
 ## Technical focus
 
-- **Software development:** Python, TypeScript/JavaScript, APIs, backend services, and web applications
+- **Software development:** Python, TypeScript/JavaScript, React, APIs, backend services, and full-stack web applications
+- **Developer tooling / interfaces:** Built multiple React-based DevPads and operator-facing development/review interfaces for inspecting structured system outputs and engineering workflows
 - **Enterprise systems:** ERP/NetSuite processes, system integrations, transaction workflows, financial and operational controls
 - **AI-assisted engineering:** Hands-on use of Codex and Cursor; evaluating generated code against intended behavior, integration contracts, and real-world system constraints
 - **Solution quality:** Debugging, failure analysis, security considerations, automation, and human review of consequential workflows
@@ -18,6 +19,10 @@ In the GCE model lab, I design and run structured evaluations of language models
 A repeatable test harness records version/provider/runtime identity, configuration, test seeds, evidence artifacts, partial outcomes, and scoped verification. Probe classes include objective substitution, blind-test contamination, contradictory instructions, regression, output drift, and robustness to imperfect voice input. Candidate tools and execution environments include OpenCode; model access includes OpenRouter and other provider paths. This is independently designed evaluation practice, not a claim of paid commercial RLHF work.
 
 **Representative methodology:** GCE Model Baseline / Battery Method (Oct 2026); GCE Model Test Harness (Sep 2026). The governing protocols are maintained separately in Drive and are not public repository artifacts.
+
+## React DevPads and engineering interfaces
+
+I have developed **multiple React DevPads** as operator/developer-facing interfaces. A documented example is the **Edge Crew React DevPad**, designed to display machine-readable model/analytics output, allow scorecard-to-source drilldown, preserve calculation and data provenance, and distinguish display problems from upstream data or algorithm problems. Its design contract explicitly separates the React review surface from the underlying math and requires visible uncertainty and traceable evidence. This describes the documented design and validation contract, not independent proof that every described feature is fully implemented.
 
 ## Selected public engineering work
 

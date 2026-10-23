@@ -1,15 +1,35 @@
-# ERP Engineering • Software Development • AI-Assisted Engineering
+# AI Evaluation • Agentic Software Engineering • Enterprise Systems
 
-**ERP / NetSuite Engineering Director | Python & TypeScript | APIs, automation, and AI-assisted development**
+**AI Systems Engineer | LLM Evaluation & Coding Agents | Python, TypeScript & React | ERP/NetSuite Engineering Leader**
 
-I work at the intersection of enterprise business systems and hands-on software engineering: translating operational problems into software, integrations, automation, and verifiable technical behavior. My background combines ERP/NetSuite leadership and finance-domain knowledge with scripting, application development, and practical use of AI coding tools including **Codex** and **Cursor**.
+I work at the intersection of enterprise business systems and hands-on software engineering: translating operational problems into software, integrations, automation, and verifiable technical behavior. My background combines ERP/NetSuite leadership and finance-domain knowledge with scripting, application development, and practical use of AI coding tools including **Codex**, **Cursor**, and **OpenCode**, with model access and experimentation through **OpenRouter**.
 
 ## Technical focus
 
-- **Software development:** Python, TypeScript/JavaScript, APIs, backend services, and web applications
+- **Software development:** Python, TypeScript/JavaScript, React, APIs, backend services, and full-stack web applications
+- **Developer tooling / interfaces:** Built multiple React-based DevPads and operator-facing development/review interfaces for inspecting structured system outputs and engineering workflows
 - **Enterprise systems:** ERP/NetSuite processes, system integrations, transaction workflows, financial and operational controls
-- **AI-assisted engineering:** Hands-on use of Codex and Cursor; evaluating generated code against intended behavior, integration contracts, and real-world system constraints
+- **AI-assisted engineering:** Hands-on use of Codex, Cursor, OpenCode, and Claude Code; evaluating generated code against intended behavior, integration contracts, and real-world system constraints
 - **Solution quality:** Debugging, failure analysis, security considerations, automation, and human review of consequential workflows
+
+## AI model evaluation and test engineering
+
+In the GCE model lab, I design and run structured evaluations of language models across distinct providers, versions, serving paths, reasoning configurations, and tool environments. My evaluation work separates model reasoning from retrieval quality, runtime/tool failures, and persistence failures rather than forcing a single leaderboard score.
+
+A repeatable test harness records version/provider/runtime identity, configuration, test seeds, evidence artifacts, partial outcomes, and scoped verification. Probe classes include objective substitution, blind-test contamination, contradictory instructions, regression, output drift, and robustness to imperfect voice input. Candidate tools and execution environments include OpenCode; model access includes OpenRouter and other provider paths. This is independently designed evaluation practice, not a claim of paid commercial RLHF work.
+
+**Representative methodology:** GCE Model Baseline / Battery Method (Oct 2026); GCE Model Test Harness (Sep 2026). The governing protocols are maintained separately in Drive and are not public repository artifacts.
+
+## React DevPads and engineering interfaces
+
+I have developed **multiple React DevPads** as operator/developer-facing interfaces. A documented example is the **Edge Crew React DevPad**, designed to display machine-readable model/analytics output, allow scorecard-to-source drilldown, preserve calculation and data provenance, and distinguish display problems from upstream data or algorithm problems. Its design contract explicitly separates the React review surface from the underlying math and requires visible uncertainty and traceable evidence. This describes the documented design and validation contract, not independent proof that every described feature is fully implemented.
+
+## Portfolio navigation
+
+- [Professional engineering portfolio](PROFESSIONAL_PORTFOLIO.md) — recruiter-facing overview and role fit
+- [AI evaluation case study](AI_EVALUATION_CASE_STUDY.md) — test design, model/runtime distinction and failure classification
+- [Model and provider inventory](AI_MODEL_PROVIDER_EXPERIENCE.md) — detailed, evidence-classified model access/testing record
+- [Engineering projects](ENGINEERING_PROJECT_INDEX.md) — React, Python, APIs and developer interfaces
 
 ## Selected public engineering work
 
@@ -34,6 +54,6 @@ In ERP work, correctness is measured by business behavior: orders, inventory, ac
 ---
 
 **GitHub:** [GCEstack](https://github.com/GCEstack)  
-**Professional opportunities of interest:** AI coding evaluation · Software engineering · ERP integrations · Agent workflows
+**Professional opportunities of interest:** AI model evaluation · Coding-agent evaluation · Software engineering · ERP integrations · Agent workflows
 
 <!-- Profile README candidate: after review, place this content in README.md of the special public repository GCEstack/GCEstack to render it on the GitHub profile. -->

@@ -1,6 +1,6 @@
-# ERP Engineering • Software Development • AI-Assisted Engineering
+# AI Evaluation • Agentic Software Engineering • Enterprise Systems
 
-**ERP / NetSuite Engineering Director | Python & TypeScript | AI Model Evaluation, Agent Systems & Enterprise Integrations**
+**AI Systems Engineer | LLM Evaluation & Coding Agents | Python, TypeScript & React | ERP/NetSuite Engineering Leader**
 
 I work at the intersection of enterprise business systems and hands-on software engineering: translating operational problems into software, integrations, automation, and verifiable technical behavior. My background combines ERP/NetSuite leadership and finance-domain knowledge with scripting, application development, and practical use of AI coding tools including **Codex**, **Cursor**, and **OpenCode**, with model access and experimentation through **OpenRouter**.
 
@@ -9,7 +9,7 @@ I work at the intersection of enterprise business systems and hands-on software 
 - **Software development:** Python, TypeScript/JavaScript, React, APIs, backend services, and full-stack web applications
 - **Developer tooling / interfaces:** Built multiple React-based DevPads and operator-facing development/review interfaces for inspecting structured system outputs and engineering workflows
 - **Enterprise systems:** ERP/NetSuite processes, system integrations, transaction workflows, financial and operational controls
-- **AI-assisted engineering:** Hands-on use of Codex and Cursor; evaluating generated code against intended behavior, integration contracts, and real-world system constraints
+- **AI-assisted engineering:** Hands-on use of Codex, Cursor, OpenCode, and Claude Code; evaluating generated code against intended behavior, integration contracts, and real-world system constraints
 - **Solution quality:** Debugging, failure analysis, security considerations, automation, and human review of consequential workflows
 
 ## AI model evaluation and test engineering
@@ -23,6 +23,13 @@ A repeatable test harness records version/provider/runtime identity, configurati
 ## React DevPads and engineering interfaces
 
 I have developed **multiple React DevPads** as operator/developer-facing interfaces. A documented example is the **Edge Crew React DevPad**, designed to display machine-readable model/analytics output, allow scorecard-to-source drilldown, preserve calculation and data provenance, and distinguish display problems from upstream data or algorithm problems. Its design contract explicitly separates the React review surface from the underlying math and requires visible uncertainty and traceable evidence. This describes the documented design and validation contract, not independent proof that every described feature is fully implemented.
+
+## Portfolio navigation
+
+- [Professional engineering portfolio](PROFESSIONAL_PORTFOLIO.md) — recruiter-facing overview and role fit
+- [AI evaluation case study](AI_EVALUATION_CASE_STUDY.md) — test design, model/runtime distinction and failure classification
+- [Model and provider inventory](AI_MODEL_PROVIDER_EXPERIENCE.md) — detailed, evidence-classified model access/testing record
+- [Engineering projects](ENGINEERING_PROJECT_INDEX.md) — React, Python, APIs and developer interfaces
 
 ## Selected public engineering work
 

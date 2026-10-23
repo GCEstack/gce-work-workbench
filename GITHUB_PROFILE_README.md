@@ -1,8 +1,8 @@
 # ERP Engineering • Software Development • AI-Assisted Engineering
 
-**ERP / NetSuite Engineering Director | Python & TypeScript | APIs, automation, and AI-assisted development**
+**ERP / NetSuite Engineering Director | Python & TypeScript | AI Model Evaluation, Agent Systems & Enterprise Integrations**
 
-I work at the intersection of enterprise business systems and hands-on software engineering: translating operational problems into software, integrations, automation, and verifiable technical behavior. My background combines ERP/NetSuite leadership and finance-domain knowledge with scripting, application development, and practical use of AI coding tools including **Codex** and **Cursor**.
+I work at the intersection of enterprise business systems and hands-on software engineering: translating operational problems into software, integrations, automation, and verifiable technical behavior. My background combines ERP/NetSuite leadership and finance-domain knowledge with scripting, application development, and practical use of AI coding tools including **Codex**, **Cursor**, and **OpenCode**, with model access and experimentation through **OpenRouter**.
 
 ## Technical focus
 
@@ -10,6 +10,14 @@ I work at the intersection of enterprise business systems and hands-on software 
 - **Enterprise systems:** ERP/NetSuite processes, system integrations, transaction workflows, financial and operational controls
 - **AI-assisted engineering:** Hands-on use of Codex and Cursor; evaluating generated code against intended behavior, integration contracts, and real-world system constraints
 - **Solution quality:** Debugging, failure analysis, security considerations, automation, and human review of consequential workflows
+
+## AI model evaluation and test engineering
+
+In the GCE model lab, I design and run structured evaluations of language models across distinct providers, versions, serving paths, reasoning configurations, and tool environments. My evaluation work separates model reasoning from retrieval quality, runtime/tool failures, and persistence failures rather than forcing a single leaderboard score.
+
+A repeatable test harness records version/provider/runtime identity, configuration, test seeds, evidence artifacts, partial outcomes, and scoped verification. Probe classes include objective substitution, blind-test contamination, contradictory instructions, regression, output drift, and robustness to imperfect voice input. Candidate tools and execution environments include OpenCode; model access includes OpenRouter and other provider paths. This is independently designed evaluation practice, not a claim of paid commercial RLHF work.
+
+**Representative methodology:** GCE Model Baseline / Battery Method (Oct 2026); GCE Model Test Harness (Sep 2026). The governing protocols are maintained separately in Drive and are not public repository artifacts.
 
 ## Selected public engineering work
 
@@ -34,6 +42,6 @@ In ERP work, correctness is measured by business behavior: orders, inventory, ac
 ---
 
 **GitHub:** [GCEstack](https://github.com/GCEstack)  
-**Professional opportunities of interest:** AI coding evaluation · Software engineering · ERP integrations · Agent workflows
+**Professional opportunities of interest:** AI model evaluation · Coding-agent evaluation · Software engineering · ERP integrations · Agent workflows
 
 <!-- Profile README candidate: after review, place this content in README.md of the special public repository GCEstack/GCEstack to render it on the GitHub profile. -->

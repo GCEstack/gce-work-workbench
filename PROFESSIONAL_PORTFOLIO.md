@@ -15,6 +15,7 @@ I use **Codex, Cursor, OpenCode, Claude Code, OpenRouter, Azure/OpenAI paths, an
 | Focus | Portfolio artifact | What it demonstrates |
 | --- | --- | --- |
 | AI evaluation | [Evaluation engineering case study](AI_EVALUATION_CASE_STUDY.md) | Experimental controls, failure attribution, repeatable model tests |
+| Decision architecture | [Clinical triage analogy](DECISION_ARCHITECTURE_CLINICAL_TRIAGE_ANALOGY.md) | Explains governed evidence, independent reads, disagreements, human review and outcome calibration; analogy only, not clinical validation |
 | Coding-agent evaluation | [G2i technical evaluation methodology](G2I_CODING_AGENT_EVALUATION_METHODOLOGY.md) | Ten-stage cold review, execution checks, challenge, evidence synthesis, scoped disposition |
 | Model infrastructure | [Model/provider experience inventory](AI_MODEL_PROVIDER_EXPERIENCE.md) | Separation of model developer, served model, gateway, and runtime; 50-ID minimal access sweep |
 | Hands-on development | [Engineering project index](ENGINEERING_PROJECT_INDEX.md) | Selected React, Python, integrations, and agent applications |

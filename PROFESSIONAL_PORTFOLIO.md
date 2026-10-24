@@ -15,6 +15,7 @@ I use **Codex, Cursor, OpenCode, Claude Code, OpenRouter, Azure/OpenAI paths, an
 | Focus | Portfolio artifact | What it demonstrates |
 | --- | --- | --- |
 | AI evaluation | [Evaluation engineering case study](AI_EVALUATION_CASE_STUDY.md) | Experimental controls, failure attribution, repeatable model tests |
+| GCE test battery | [Public-safe test case catalogue](GCE_TEST_CASE_CATALOGUE.md) | Nine named evaluation cases, case purpose and protocol status without exposing private rubrics |
 | Model infrastructure | [Model/provider experience inventory](AI_MODEL_PROVIDER_EXPERIENCE.md) | Separation of model developer, served model, gateway, and runtime; 50-ID minimal access sweep |
 | Hands-on development | [Engineering project index](ENGINEERING_PROJECT_INDEX.md) | Selected React, Python, integrations, and agent applications |
 | Professional summary | [GitHub profile README candidate](GITHUB_PROFILE_README.md) | Recruiter-ready positioning and selected public work |
